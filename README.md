@@ -14,5 +14,5 @@
     c- Updating shapes size / color / location
     d- Redo & undo
 
-##                            The class diagram of Painter App
+## The class diagram of Painter App
 ![alt text](https://github.com/samikadry/Painter-App-Demo-/blob/master/Painter%20Class%20Diagram.png)
