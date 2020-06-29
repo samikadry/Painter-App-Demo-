@@ -2,15 +2,15 @@
 
 # Application description:
 ## Painter Application, which supports:
-### Painting shapes (Rectangle, Square ,Line, Circle, Triangle)
+### 1) Painting shapes (Rectangle, Square ,Line, Circle, Triangle)
 #### Each shape has:
-    .	Size in pixels
-    .	Location (x,y)
-    .	Color
-    .	Transparent flag  (boolean)
-### Save/load paints as file
-### Paint editor supports:
-    .	Adding shapes
-    .	Deleting shapes
-    .	Updating shapes size / color / location
-    .	Redo & undo
+    a-	Size in pixels
+    b-	Location (x,y)
+    c-	Color
+    d-	Transparent flag  (boolean)
+### 2) Save/load paints as file
+### 3) Paint editor supports:
+    a-	Adding shapes
+    b-	Deleting shapes
+    c-	Updating shapes size / color / location
+    d-	Redo & undo
