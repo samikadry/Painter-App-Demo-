@@ -1,0 +1,24 @@
+Shape details:
+Name: Square
+Color: [r=15,g=33,b=76]
+Size: 10.0
+Location: (10,8)
+
+Shape details:
+Name: Circle
+Color: [r=0,g=0,b=25]
+Size: 5.0
+Location: (20,30)
+
+Shape details:
+Name: Rectangle
+Color: [r=40,g=52,b=0]
+Size: 16.0
+Location: (45,54)
+
+Shape details:
+Name: Line
+Color: [r=88,g=88,b=88]
+Size: 13.0
+Location: (5,5)
+
