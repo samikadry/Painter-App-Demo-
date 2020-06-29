@@ -1,1 +1,1 @@
-# Painter-App-Demo-
+# Painter Application (Demo)
